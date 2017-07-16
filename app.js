@@ -106,7 +106,11 @@ app.use('/articles', articles);
 let users = require('./routes/users');
 app.use('/users', users);
 
+// Set the port of our application
+// process.env.PORT lets the port be set by Heroku
+
 // Start Server
-app.listen(3000, function(){
+var port = process.env.PORT || 3000;
+app.listen(port, function(){
   console.log('Server started on port 3000');
 });
