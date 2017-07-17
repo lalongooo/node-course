@@ -25,6 +25,7 @@ $ npm start
 ```
 
 ## How does this application work?
+- Go here: https://hidden-fjord-82180.herokuapp.com
 - You can first [Register](https://hidden-fjord-82180.herokuapp.com/users/register)
 - Then [Login](https://hidden-fjord-82180.herokuapp.com/users/login)
 - Once logged in, you can write an [Article](https://hidden-fjord-82180.herokuapp.com/articles/add)
