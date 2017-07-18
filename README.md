@@ -1,12 +1,16 @@
 ## Simple NodeJS application to showcase CRUD operations, authentication and access control
 
 ## Stack
-- NodeJS
-- Express
-- Express Messages, Session, Connect Flash and Validation
-- Pug syntax (formerly Jade) for the views
-- Passport.js for authentication
-- BCrypsJS for password hashing
+- [NodeJS](https://nodejs.org)
+- [MongoDB](https://www.mongodb.com)
+- [Express](http://expressjs.com)
+- [Express Messages](https://github.com/expressjs/express-messages)
+- [Express Session](https://github.com/expressjs/session)
+- [Connect Flash](https://github.com/jaredhanson/connect-flash)
+- [Express-validator](https://github.com/ctavan/express-validator)
+- [Pug syntax](https://pugjs.org) (formerly Jade)
+- [Passport.js](http://passportjs.org)
+- [BCrypsJS](https://github.com/kelektiv/node.bcrypt.js) for password hashing
 
 ## Usage
 
